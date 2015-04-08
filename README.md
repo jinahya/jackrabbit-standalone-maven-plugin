@@ -1,0 +1,1 @@
+# jackrabbit-standalone-maven-plugin
